@@ -148,6 +148,7 @@ color: #FB8801 !important;
     bottom: 120px;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #fff;
 }
 .circle-relative-div{
     position: relative;
